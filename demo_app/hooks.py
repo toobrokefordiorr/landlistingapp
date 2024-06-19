@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
 app_name = "demo_app"
-app_title = "Demp App"
+app_title = "Demo App"
 app_publisher = "Shawn"
 app_description = "Demo App"
 app_icon = "octicon octicon-file-directory"
